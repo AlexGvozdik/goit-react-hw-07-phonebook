@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "id-2",
+      "name": "Hermione Kline",
+      "number": "443-89-12"
+    },
+    {
+      "id": "id-4",
+      "name": "Annie Copeland",
+      "number": "227-91-26"
+    },
+    {
+      "id": "eb9ca77d-f47c-4694-a52d-870e2028a33b",
+      "name": "natasha",
+      "number": "123-69-69"
+    }
+  ]
+}
